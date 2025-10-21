@@ -35,9 +35,8 @@
 </div><br>
 
 <a href="https://github.com/guilhermeladislau" title="Meu Perfil">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeladislau&theme=dracula&show_icons=true" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=guilhermeladislau&show_icons=true&theme=radical" />
 </a>
-
 
 ## Onde me encontrar
 
