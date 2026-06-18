@@ -4,15 +4,11 @@
 </p>
 
 <h1 align="center">
-    0xSEUNOME
+    0xGUILHERME
 </h1>
 
 <p align="center">
     Cybersecurity • Reverse Engineering • Offensive Security
-</p>
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&label=VISITORS&color=8b0000&style=flat-square">
 </p>
 
 <hr>
@@ -98,9 +94,9 @@ and whatever else catches my attention.
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark&bg_color=000000&title_color=8b0000&text_color=ffffff&icon_color=8b0000&border_color=222222"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=guilhermeladislau&show_icons=true&theme=dark&bg_color=000000&title_color=8b0000&text_color=ffffff&icon_color=8b0000&border_color=222222"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=dark&background=000000&ring=8b0000&fire=8b0000&currStreakLabel=ffffff"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeladislau&theme=dark&background=000000&ring=8b0000&fire=8b0000&currStreakLabel=ffffff"/>
 
 </p>
 
@@ -110,7 +106,7 @@ and whatever else catches my attention.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&bg_color=000000&color=ffffff&line=8b0000&point=ffffff&area=true&hide_border=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermeladislau&bg_color=000000&color=ffffff&line=8b0000&point=ffffff&area=true&hide_border=true">
 
 </p>
 
