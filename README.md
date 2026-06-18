@@ -1,44 +1,126 @@
-<h1>⚡ Olá, bem-vindo(a) ao meu GitHub!</h1> <br>
+<!-- BANNER -->
+<p align="center">
+    <img src="https://media.nergiza.com/nikola-tesla-real.jpg?1429615370" width="100%">
+</p>
 
-**Sobre mim**
+<h1 align="center">
+    0xSEUNOME
+</h1>
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Ciência da Computação na Universidade Vila Velha.
-- 💼 Em busca de oportunidades de estágio.
+<p align="center">
+    Cybersecurity • Reverse Engineering • Offensive Security
+</p>
 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&label=VISITORS&color=8b0000&style=flat-square">
+</p>
 
-## Minhas Skills
+<hr>
 
-**Aplicações e dados**
+<h2>▌PROFILE</h2>
 
-<div style="display: inline_block">
-  <img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Javascript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Node.js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="HTML5" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
-  <img align="center" alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-</div> <br>
+<p>
+Computer systems are built by humans.
+Humans make mistakes.
 
-**Utilidades**
-<div style="display: inline_block">
-<img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-<img align="center" alt="GitHub" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg">
-</div> <br>
+I spend my time understanding how systems work,
+how they fail,
+and how they can be broken, secured, or improved.
 
-**Ferramentas de desenvolvimento**
+This repository is a collection of experiments,
+research notes,
+tools,
+proofs of concept,
+automation scripts,
+and whatever else catches my attention.
+</p>
 
-<div style="display: inline_block">
-<img align="center" alt="VsCode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-<img align="center" alt="Figma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
-</div><br>
+<hr>
 
-<a href="https://github.com/guilhermeladislau" title="Meu Perfil">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=guilhermeladislau&show_icons=true&theme=radical" />
+<h2>▌FOCUS</h2>
+
+<ul>
+    <li>Web Security</li>
+    <li>Network Security</li>
+    <li>Reverse Engineering</li>
+    <li>Malware Analysis</li>
+    <li>OSINT</li>
+    <li>Threat Research</li>
+    <li>Automation</li>
+    <li>Linux Systems</li>
+</ul>
+
+<hr>
+
+<h2>▌TECH STACK</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,bash,c,cpp,rust,go" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,postgres,mysql" />
+
+</p>
+
+<hr>
+
+<h2>▌CURRENTLY LEARNING</h2>
+
+<pre>
+[+] Advanced Exploitation
+[+] Malware Development
+[+] Windows Internals
+[+] Active Directory Security
+[+] Cloud Security
+</pre>
+
+<hr>
+
+<h2>▌CONTACT</h2>
+
+<p align="center">
+
+<a href="https://linkedin.com/in/SEUPERFIL">
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-## Onde me encontrar
+<a href="mailto:SEUEMAIL">
+<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-  <a href="https://www.linkedin.com/in/guilherme-ladislau" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:guilhermeladislau013@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/gui.wtf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</p>
+
+<hr>
+
+<h2>▌GITHUB STATS</h2>
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark&bg_color=000000&title_color=8b0000&text_color=ffffff&icon_color=8b0000&border_color=222222"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=dark&background=000000&ring=8b0000&fire=8b0000&currStreakLabel=ffffff"/>
+
+</p>
+
+<hr>
+
+<h2>▌ACTIVITY</h2>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&bg_color=000000&color=ffffff&line=8b0000&point=ffffff&area=true&hide_border=true">
+
+</p>
+
+<hr>
+
+<p align="center">
+
+<i>
+"Attackers only need one path.
+Defenders must protect them all."
+</i>
+
+</p>
