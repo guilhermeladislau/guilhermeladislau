@@ -16,9 +16,6 @@
 <h2>▌PROFILE</h2>
 
 <p>
-Computer systems are built by humans.
-Humans make mistakes.
-
 I spend my time understanding how systems work,
 how they fail,
 and how they can be broken, secured, or improved.
@@ -32,9 +29,8 @@ and whatever else catches my attention.
 </p>
 
 <hr>
-
+<!-- BANNER 
 <h2>▌FOCUS</h2>
-
 <ul>
     <li>Web Security</li>
     <li>Network Security</li>
@@ -44,19 +40,17 @@ and whatever else catches my attention.
     <li>Threat Research</li>
     <li>Automation</li>
     <li>Linux Systems</li>
-</ul>
+</ul>-->
 
-<hr>
 
 <h2>▌TECH STACK</h2>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash,c,cpp,rust,go" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,nodejs,&perline=3"/>
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,postgres,mysql,bash&perline=3"/>
 
 </p>
 
@@ -78,11 +72,11 @@ and whatever else catches my attention.
 
 <p align="center">
 
-<a href="https://linkedin.com/in/SEUPERFIL">
+<a href="https://linkedin.com/in/guilherme-ladislau/">
 <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:SEUEMAIL">
+<a href="mailto:guilhermeladislau013@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
@@ -110,13 +104,3 @@ and whatever else catches my attention.
 
 </p>
 
-<hr>
-
-<p align="center">
-
-<i>
-"Attackers only need one path.
-Defenders must protect them all."
-</i>
-
-</p>
