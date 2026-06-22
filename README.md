@@ -47,10 +47,10 @@ and whatever else catches my attention.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,nodejs,&perline=3"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,nodejs,&perline=6"/>
 </p>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,postgres,mysql,bash&perline=3"/>
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,postgres,mysql,bash&perline=6"/>
 
 </p>
 
