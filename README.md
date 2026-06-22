@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-    <img src="https://media.nergiza.com/nikola-tesla-real.jpg?1429615370" width="100%">
+    <img src="https://media.nergiza.com/nikola-tesla-real.jpg?1429615370" width="80%">
 </p>
 
 <h1 align="center">
@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-    Cybersecurity • Reverse Engineering • Offensive Security
+    Cybersecurity • Software Development • Random Things
 </p>
 
 <hr>
