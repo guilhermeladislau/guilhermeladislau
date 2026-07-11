@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-    <img src="https://media.nergiza.com/nikola-tesla-real.jpg?1429615370" width="80%">
+    <img src="https://i.imgur.com/xKteDq1.jpeg" width="70%">
 </p>
 
 <h1 align="center">
