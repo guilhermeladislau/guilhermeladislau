@@ -16,16 +16,9 @@
 <h2>▌PROFILE</h2>
 
 <p>
-I spend my time understanding how systems work,
-how they fail,
-and how they can be broken, secured, or improved.
+I spend my time understanding how systems work, how they fail, and how they broke, secured, or improved.
 
-This repository is a collection of experiments,
-research notes,
-tools,
-proofs of concept,
-automation scripts,
-and whatever else catches my attention.
+This profile is a collection of experiments, research notes, tools, proofs of concept, automation scripts, and whatever else catches my attention.
 </p>
 
 <hr>
