@@ -38,16 +38,8 @@ This profile is a collection of experiments, research notes, tools, proofs of co
 
 <h2>▌TECH STACK</h2>
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,nodejs,&perline=6"/>
-</p>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,postgres,mysql,bash&perline=6"/>
-
-</p>
-
-<hr>
+<p align="center"><img src="https://skillicons.dev/icons?i=python,java,c,cpp,postgres,mysql&perline=6"/></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=debian,docker,bash,kubernetes,kali&perline=5"/></p>
 
 <h2>▌CURRENTLY LEARNING</h2>
 
